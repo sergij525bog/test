@@ -31,13 +31,6 @@
 *.out
 *.app
 
-<<<<<<< refs/remotes/origin/master
-# Local directories
-build/
-nbproject/
-
-=======
 build/
 
 nbproject/
->>>>>>> Changed .gitignore
